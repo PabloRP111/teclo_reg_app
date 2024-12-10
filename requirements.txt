@@ -1,9 +1,4 @@
 pandas
-pickle
-<<<<<<< HEAD
-streamlit
-=======
 streamlit
 numpy
 scikit-learn
->>>>>>> 9dcbc2779fde26bf540d454078153313cf472864
